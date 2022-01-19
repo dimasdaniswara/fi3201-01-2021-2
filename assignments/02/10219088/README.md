@@ -1,3 +1,5 @@
+Nama : Dimas Fasdhia D
+NIM : 10219088
 
 # assignment 02
 What is the results of following code?
