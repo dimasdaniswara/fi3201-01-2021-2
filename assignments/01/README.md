@@ -6,6 +6,11 @@ NAME <fill your name>
 NIM  <fill your student identification number>
 ```
 
+## Answer
+```
+NAME Dimas Fasdhia Daniswara
+NIM 10219088
+```
 ## notes
 1. Open this file with ![](edit-file-button.png) but do not modify anything.
 2. Just copy the above assigment and paste it to the `README.md` file.
