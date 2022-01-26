@@ -32,7 +32,9 @@ Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di ata
 ``
 code
 ``
+``
 <img width="296" alt="image" src="https://user-images.githubusercontent.com/67426210/151105795-8544a048-ca91-4065-8892-de162b5fdaf8.png">
+``
 ``
 ouput
 ``
