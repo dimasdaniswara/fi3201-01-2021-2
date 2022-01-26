@@ -22,17 +22,21 @@ for x in NIM:
 Ganti nilai variabel NIM dengan data Anda, jalankan kode yang diberikan, dan tampilkan hasilnya.
 
 ### anwser 1
-Hasil kode di atas adalah
-```
-```
+<img width="632" alt="image" src="https://user-images.githubusercontent.com/67426210/151105380-2dc64cc0-3525-443e-a27a-d036ff1e2291.png">
+
 
 ## question 2
 Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s += char1`, jalankan dan tampilkan hasilnya.
 
 ### anwser 2
-Hasil modifikasi kode di atas adalah
-```
-```
+``
+code
+``
+<img width="296" alt="image" src="https://user-images.githubusercontent.com/67426210/151105795-8544a048-ca91-4065-8892-de162b5fdaf8.png">
+``
+ouput
+``
+
 
 ## question 3
 Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s += char2`, jalankan dan tampilkan hasilnya.
