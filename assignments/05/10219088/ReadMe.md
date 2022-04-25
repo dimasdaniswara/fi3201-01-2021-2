@@ -1,6 +1,7 @@
-
+```
 Nama : Dimas Fasdhia Daniswara
 NIM : 10219088
+```
 
 # assignment 05
 1. Pelajari Notebook Python berikut [ini](https://github.com/dudung/cookbook/blob/main/notebook/hello/work_of_friction.ipynb).
