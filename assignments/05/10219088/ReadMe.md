@@ -10,4 +10,4 @@ NIM : 10219088
 4. Unggah ke GitHub Anda dan berikan link pada berkas ini pada bagian jawaban.
 
 ## answer
-Tautan ke berkas Notebook Python saya adalah [10219088_work_of_friction.ipynb](assignments/05/10219088/10219088_work_of_friction.ipynb).
+Tautan ke berkas Notebook Python saya adalah [10219088_work_of_friction.ipynb](https://github.com/dimasdaniswara/fi3201-01-2021-2/blob/main/assignments/05/10219088/10219088_work_of_friction.ipynb).
